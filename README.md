@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working from home
 
-- ⌛ Learning JavaScript, HTML, CSS, SQL, Node.JS
+- ⌛ Learning JavaScript, HTML, CSS, SQL, Node.JS, ReactJs and ReactNative
 
 - ⚡ Fun fact: °,...,°
